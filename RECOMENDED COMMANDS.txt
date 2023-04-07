@@ -1,0 +1,5 @@
+BABEL INSTALL :- 
+npm install -D @babel/core @babel/cli @babel/preset-env
+
+FOR INSTALL A APP :-
+npx express-generator --view=ejs
